@@ -7,7 +7,7 @@ A script for Chinese to help with English reading
 选中英文，按下f2键先翻译成中文，再进行朗读。
 <br/>
 **图解：**
-略，见博客
+![Image description](11.png)
 <br/>
 **用途：**
 中文作用：
