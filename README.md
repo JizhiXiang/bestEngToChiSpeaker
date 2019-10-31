@@ -24,5 +24,11 @@ A script for Chinese to help with English reading
 哇，我太棒了，一个小东西这么好，我吹的也好，哈哈哈。
 现在我自由时间不多，短时间不进行后续开发了。但我感觉这个东西其实不错，如果有兴趣的朋友可以整理一下，并合并成一个软件。
 
-更多细节请参考我的博客：
-https://blog.csdn.net/GreatXiang888
+看英文系列【全】：<br/>
+[骚操作，妈妈再也不用担心我看英文文献了 - 1.功能介绍](https://blog.csdn.net/GreatXiang888/article/details/102839870) <br/>
+[骚操作，妈妈再也不用担心我看英文文献了 - 2.逻辑+代码](https://blog.csdn.net/GreatXiang888/article/details/102841629) <br/>
+[骚操作，妈妈再也不用担心我看英文文献了 - 3.翻译接口+打包执行](https://blog.csdn.net/GreatXiang888/article/details/102842188) <br/>
+
+源码连接：
+[https://github.com/JizhiXiang/bestEngToChiSpeaker](https://github.com/JizhiXiang/bestEngToChiSpeaker) <br/>
+【感觉有意思，点个赞呗，算对我分享东西的肯定，thx】
