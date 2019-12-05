@@ -32,3 +32,6 @@ A script for Chinese to help with English reading
 源码连接：
 [https://github.com/JizhiXiang/bestEngToChiSpeaker](https://github.com/JizhiXiang/bestEngToChiSpeaker) <br/>
 【感觉有意思，点个赞呗，算对我分享东西的肯定，thx】
+
+视频教学：https://space.bilibili.com/51723516 <br >
+B02.有意思的小东西 - 辅助英文阅读【福利】
